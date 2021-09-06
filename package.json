@@ -1,0 +1,30 @@
+{
+  "name": "goit-node-homeworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmytroGupanets/goit-node-homeworks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmytroGupanets/goit-node-homeworks/issues"
+  },
+  "homepage": "https://github.com/DmytroGupanets/goit-node-homeworks#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2",
+    "yargs": "^17.1.1",
+    "yarn": "^1.22.11"
+  }
+}
